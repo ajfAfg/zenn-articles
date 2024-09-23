@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: reviewdog/action-actionlint@d99f1ceaf59e7db022a790dc308ccccb68dda71a # v1.53.0
+      - uses: reviewdog/action-actionlint@05c9d7bef25a46caf572df3497afa7082fc111df # v1.55.0
